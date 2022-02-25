@@ -11,23 +11,26 @@ The code allows the user to see an AR display over the front cover of the book "
 
 ## Images 
 Front cover of the book before and after. 
+
 <img src="Front (1).jpg"
      alt="Front Cover of the Book"
      style="float: center; margin-right: 10px;" />
      
-Back cover of the book with Book Info
+Back cover of the book with Book Info.
+
 <img src="Back1.jpg"
      alt="Back Cover of the Book 1"
      style="float: left; margin-right: 10px;" />
      
-Back cover of the book with Book Review
-<img src="Back2.jpg"
+Back cover of the book with Book Review.
+
+<img src="Back2.png"
      alt="Back Cover of the Book 1"
      style="float: left; margin-right: 20px;" />
 
 ## Video
 A video of the application running on the hololens can be seen below:
-Video.mp4
+https://github.com/mt3312/AR_Project2_BookCover/blob/main/Video.mp4
 
 ## Limitations
 * It is more difficult to correctly map a sprite to the front cover. It does not align correctly 
