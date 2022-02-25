@@ -14,9 +14,20 @@ Front cover of the book before and after.
 <img src="Front (1).jpg"
      alt="Front Cover of the Book"
      style="float: center; margin-right: 10px;" />
+     
+Back cover of the book with Book Info
+<img src="Back1.jpg"
+     alt="Back Cover of the Book 1"
+     style="float: center; margin-right: 10px;" />
+     
+Back cover of the book with Book Review
+<img src="Back2.jpg"
+     alt="Back Cover of the Book 1"
+     style="float: center; margin-right: 10px;" />
 
 ## Video
 A video of the application running on the hololens can be seen below:
+Video.mp4
 
 ## Limitations
 * It is more difficult to correctly map a sprite to the front cover. It does not align correctly 
