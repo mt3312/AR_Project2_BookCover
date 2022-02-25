@@ -18,12 +18,12 @@ Front cover of the book before and after.
 Back cover of the book with Book Info
 <img src="Back1.jpg"
      alt="Back Cover of the Book 1"
-     style="float: center; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />
      
 Back cover of the book with Book Review
 <img src="Back2.jpg"
      alt="Back Cover of the Book 1"
-     style="float: center; margin-right: 10px;" />
+     style="float: left; margin-right: 20px;" />
 
 ## Video
 A video of the application running on the hololens can be seen below:
