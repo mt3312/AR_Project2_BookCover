@@ -10,10 +10,10 @@ The code allows the user to see an AR display over the front cover of the book "
 
 
 ## Images 
-Some images obtained from the front and back view of the book can be found here. 
+Front cover of the book before and after. 
 <img src="Front (1).jpg"
      alt="Front Cover of the Book"
-     style="float: left; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" />
 
 ## Video
 A video of the applic
