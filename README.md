@@ -20,7 +20,7 @@ Back cover of the book with Book Info.
 
 <img src="Back1.jpg"
      alt="Back Cover of the Book 1"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 20px;" />
      
 Back cover of the book with Book Review.
 
@@ -30,8 +30,7 @@ Back cover of the book with Book Review.
 
 ## Video
 A video of the application running on the hololens can be seen below:
-https://github.com/mt3312/AR_Project2_BookCover/blob/main/Video.mp4
-
+https://user-images.githubusercontent.com/50341192/155655098-73f2048d-6922-4c06-8b34-d98cb2479428.mp4
 ## Limitations
 * It is more difficult to correctly map a sprite to the front cover. It does not align correctly 
 * It is harder to see the entire book while holding it because of the restricted field of view of HoloLens
