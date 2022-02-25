@@ -18,7 +18,7 @@ Front cover of the book before and after.
 ## Video
 A video of the applic
 
-##Limitations
+## Limitations
 * It is more difficult to correctly map a sprite to the front cover. It does not align correctly 
 * It is harder to see the entire book while holding it because of the restricted field of view of HoloLens
 
