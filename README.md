@@ -16,7 +16,7 @@ Front cover of the book before and after.
      style="float: center; margin-right: 10px;" />
 
 ## Video
-A video of the applic
+A video of the application running on the hololens can be seen below:
 
 ## Limitations
 * It is more difficult to correctly map a sprite to the front cover. It does not align correctly 
