@@ -37,5 +37,5 @@ Video.mp4
 Follow the instructions below to run the app
 * Use this [link](https://library.vuforia.com/articles/Solution/Working-with-the-HoloLens-sample-in-Unity.html) to install the correct version of virtual studio as well as the dependencies needed to build and deploy the app on HoloLens 2.
 * Connect the HoloLens 2 with your computer using a USB. 
-* Run ENTER SOLUTION NAME on Visual Studio. Set the Solution Configurations to Release, Solution Platform to ARM64 , and Deployment Device to Device and Press Ctrl + F5  
-* Once the app has deployed, you will be able to see ENRTER APP NAME in all apps.  
+* Run https://github.com/mt3312/AR_Project2_BookCover/blob/main/Project2/AR_HW2.sln on Visual Studio. Set the Solution Configurations to Release, Solution Platform to ARM64 , and Deployment Device to Device and Press Ctrl + F5  
+* Once the app has deployed, you will be able to see AR_HW2 in all apps.  
